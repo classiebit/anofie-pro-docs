@@ -16,6 +16,7 @@ In same way, when you receive a message, you can't see the senders identity. Tha
 - [Favorite](#Favorite)
 - [Sent](#Sent)
 
+
 <a name="Background-Frame"></a>
 ## Background Frame
 
@@ -34,7 +35,7 @@ Suppose you would like to send message and don't want to receive reply or don't 
 <a name="Reply"></a>
 ## Reply
 
-All the sent and received messages are shown on the `Messages` page. And from the Messages page you can also reply to the messages you receive, and again, without knowing who you're replying.
+The sent and received messages are shown on the `Messages` page. And from there you can reply to the messages you receive, by clicking on the `Reply icon` <larecipe-badge type="success" circle icon="fa fa-reply"></larecipe-badge> and the twist, without knowing who you're replying.
 
 > {info} You can only reply to the messages you received from registered user.
 
@@ -52,6 +53,9 @@ You can mark your favorite message as favorite using the `heart icon` <larecipe-
 <a name="Sent"></a>
 ## Sent
 
-You can see your sent messages in the `Sent tab`. If you receive a reply on your sent message, then those replies will be only shown right below the sent message and you can keep your conversation going on from there.
+You can see your sent messages in the `Sent tab`. If you receive a reply on your sent message, then those replies will be shown right below the sent message and you can keep your conversation going on from there. 
+
+<br>
+You can reply to your sent messages by clicking on the `Reply icon` <larecipe-badge type="success" circle icon="fa fa-reply"></larecipe-badge> and only you know whom you're replying.
 
 > {info} You can only reply to your sent message once after receiving a reply first.

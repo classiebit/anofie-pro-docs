@@ -4,7 +4,7 @@ This is another interesting feature of Anofie. Sometimes you wanna know what peo
 
 <br>
 
-You can ask questions from the world around you. You can `Add Questions` on the `Messages page`.
+You can ask questions from the world around you. You can `Add Questions` on the `Messages page` and can see all your questions in the `Questions` tab.
 
 
 ---
@@ -34,7 +34,7 @@ If you delete the question, you can never get it back and also you loose all the
 <a name="Profile-Page"></a>
 ## Profile Page
 
-Your questions will be available to the people on your profile page. When any user visit your profile, he/she can also see all your enabled questions and visit them in order to post their comments on them.
+Your questions will be available to the people, on your profile page. When any user visit your profile, he/she can also see all your enabled questions and visit them in order to post their comments on them.
 
 
 
@@ -52,7 +52,7 @@ Public questions means, when someone post a comment, the comment will be visible
 
 Private questions means, when someone post a comment, the comment will be only visible to `You & Commenter` only. And when you post a comment on your own question, it won't be visible to anyone until you make the question Public. 
 
-**This is called as single-directional commenting**
+**This is called as uni-directional commenting**
 
 
 
