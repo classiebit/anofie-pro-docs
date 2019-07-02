@@ -22,4 +22,4 @@ You can share a message your received on the social media. If someone sent you m
 **We've changed the whole sharing algorithm and logic.**
 
 
-> {success} And the best part is, you can share the message in any language (yess!!! ANY LANGUAGE).
+> {success} And the best part is, you can share the message in any language (yess!!! WE MEAN ANY LANGUAGE).

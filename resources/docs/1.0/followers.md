@@ -6,4 +6,4 @@ You can follow a user anonymously/secretly from his/her profile page. You can se
 You can see who you're following on the `Messages` page `Following` tab.
  
 
-> {info} We're gonna add some more features in Followers module, if you've any idea regarding that, you can send a feature request.
+> {info} In upcoming versions, we're gonna add some more features in Followers module, if you've any ideas, you can submit a feature request.

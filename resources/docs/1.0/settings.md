@@ -1,4 +1,4 @@
-# Account
+# Account Settings
 
 You can modify your account privacy settings from `Settings` page.
 
