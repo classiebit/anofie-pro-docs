@@ -1,6 +1,6 @@
 # User Groups
 
-This is about making new user groups and assign them different permissions for managing different modules on the `Admin Panel`.
+This is about making multiple user groups and assign them different permissions for managing different modules on the `Admin Panel`.
 
 > {info} We've added this advanced feature for upcoming version features.
 

@@ -15,6 +15,7 @@ In same way, when you receive a message, you can't see the senders identity. Tha
 - [Reply](#Reply)
 - [Favorite](#Favorite)
 - [Sent](#Sent)
+- [Delete](#Delete)
 
 
 <a name="Background-Frame"></a>
@@ -50,12 +51,7 @@ You can mark your favorite message as favorite using the `heart icon` <larecipe-
 
 
 
-<a name="Sent"></a>
-## Sent
+<a name="Delete"></a>
+## Deleting Messages
 
-You can see your sent messages in the `Sent tab`. If you receive a reply on your sent message, then those replies will be shown right below the sent message and you can keep your conversation going on from there. 
-
-<br>
-You can reply to your sent messages by clicking on the `Reply icon` <larecipe-badge type="success" circle icon="fa fa-reply"></larecipe-badge> and only you know whom you're replying.
-
-> {info} You can only reply to your sent message once after receiving a reply first.
+When you delete message from either `Received` or `Sent` items, it get removed only from your account and not from the other user account.

@@ -13,6 +13,7 @@ Here you can manage Anofie's global settings.
 - [Mail](#Mail)
 - [Apps](#Apps)
 - [Regional](#Regional)
+- [AdSense](#AdSense)
 
 <a name="General"></a>
 ## General
@@ -73,8 +74,9 @@ Here you can set your E-mail configurations. Please make sure you've added corre
 Here you can set third-party library's app credentials. We've used these libraries for Login purposes.
 
 <br>
-- Facebook - [https://developers.facebook.com/](https://developers.facebook.com/)
 - Google - [https://console.developers.google.com/](https://console.developers.google.com/)
+- Google Analytics - [https://analytics.google.com/analytics/web/](https://analytics.google.com/analytics/web/)
+- Facebook - [https://developers.facebook.com/](https://developers.facebook.com/)
 - Twitter - [https://developer.twitter.com/](https://developer.twitter.com/)
 - Instagram - [https://www.instagram.com/developer](https://www.instagram.com/developer)
 
@@ -86,3 +88,10 @@ Anofie is multi-lingual and multi-timezone website. So no matter where you're fr
 
 <br>
 - **Language:**  You can literally add any language you want, traditional to urban or RTL, Anofie supports every langauge available in the world.
+
+
+<a name="AdSense"></a>
+## Google AdSense
+
+Google AdSense is integrated in Anofie, you need to enter your `Google Ad Verify Code` first, then when your website gets verified for running ads, you can then enter `Google Ad Code` and the ads will shows up on the pages on the front-end, except pages - `about , contact, terms, privacy, authentication pages`. 
+

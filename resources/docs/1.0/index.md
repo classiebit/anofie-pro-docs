@@ -1,6 +1,7 @@
 - ## Get Started
     - [Overview](/{{route}}/{{version}}/overview)
-    - [Installation](/{{route}}/{{version}}/installation)
+    - [Install](/{{route}}/{{version}}/install)
+    - [Upgrade](/{{route}}/{{version}}/upgrade)
     - [Configurations](/{{route}}/{{version}}/configurations)
 
 - ## Features
@@ -31,13 +32,13 @@
 - ## Site Administration
     - [Pages](/{{route}}/{{version}}/admin/pages)
     - [Master Settings](/{{route}}/{{version}}/admin/master-settings)
+    - [Multi Languages](/{{route}}/{{version}}/admin/multi-languages)
 
 - ## Credits
     - [External Packages](/{{route}}/{{version}}/external-packages)
     
-
-
-
 - ## Changelog
-- ## Support
-    
+    - [V1.0](/{{route}}/{{version}}/changelog/V1.0)
+
+- ## Contact
+    - [Support](/{{route}}/{{version}}/support)
