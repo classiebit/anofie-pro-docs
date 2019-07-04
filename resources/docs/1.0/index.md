@@ -1,20 +1,19 @@
-- ## Get Started
-    - [Overview](/{{route}}/{{version}}/overview)
+- ## Quick Start
+    - [What The Hell](/{{route}}/{{version}}/what-the-hell)
     - [Install](/{{route}}/{{version}}/install)
     - [Upgrade](/{{route}}/{{version}}/upgrade)
     - [Configurations](/{{route}}/{{version}}/configurations)
 
 - ## Features
-    - [Messages](/{{route}}/{{version}}/messages)
-    - [Questions](/{{route}}/{{version}}/questions)
-    - [Comments](/{{route}}/{{version}}/comments)
-    - [Social Sharing](/{{route}}/{{version}}/social-sharing)
-    - [Followers](/{{route}}/{{version}}/followers)
-    - [Contact](/{{route}}/{{version}}/contact)
+    - [Messages](/{{route}}/{{version}}/features/messages)
+    - [Questions](/{{route}}/{{version}}/features/questions)
+    - [Comments](/{{route}}/{{version}}/features/comments)
+    - [Social Sharing](/{{route}}/{{version}}/features/social-sharing)
+    - [Followers](/{{route}}/{{version}}/features/followers)
 
 - ## Account
-    - [Settings](/{{route}}/{{version}}/settings)
-    - [Block & Report](/{{route}}/{{version}}/block-report)
+    - [Settings](/{{route}}/{{version}}/settings/settings)
+    - [Block & Report](/{{route}}/{{version}}/settings/block-report)
     
 - ## Admin Panel
     - [Dashboard](/{{route}}/{{version}}/admin/dashboard)
@@ -35,10 +34,10 @@
     - [Multi Languages](/{{route}}/{{version}}/admin/multi-languages)
 
 - ## Credits
-    - [External Packages](/{{route}}/{{version}}/external-packages)
+    - [External Packages](/{{route}}/{{version}}/credits/external-packages)
     
 - ## Changelog
     - [V1.0](/{{route}}/{{version}}/changelog/V1.0)
 
 - ## Contact
-    - [Support](/{{route}}/{{version}}/support)
+    - [Support](/{{route}}/{{version}}/contact/support)

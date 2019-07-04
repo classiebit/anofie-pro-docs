@@ -1,4 +1,4 @@
-# LaRecipe
+# Anofie
 
 Writing documentation is boring? Hah, let's see.
 

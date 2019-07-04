@@ -1,13 +1,12 @@
 # Block Users
 
 You can block other users, and the blocked users won't be able to -
-<br>
-<br>
 
-    - Search 
-    - Send message 
-    - Write comments 
-    - Visit profile
+<br>
+1. Search 
+2. Send message 
+3. Write comments 
+4. Visit profile
 
 
 > {danger} User blocking is a permanent action, you can't be able to unblock the user again. And the other blocked user can never be able to visit your profile.
