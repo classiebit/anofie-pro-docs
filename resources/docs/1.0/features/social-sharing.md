@@ -2,6 +2,8 @@
 
 You can share your profile and messages on social media. You can share on Facebook, Twitter and Whatsapp.
 
+> {success} And the best part is, you can share the message in any language Chinese, Japanese, Arabic and more. (yess!!! WE MEAN ANY LANGUAGE).
+
 ---
 
 - [Share Profile](#Share-Profile)
@@ -21,5 +23,4 @@ You can share a message your received on the social media. If someone sent you m
 
 **We've changed the whole sharing algorithm and logic.**
 
-
-> {success} And the best part is, you can share the message in any language (yess!!! WE MEAN ANY LANGUAGE).
+> {info} The domain and site name in shared image is dynamic, and works according to your domain and site name.

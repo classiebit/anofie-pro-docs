@@ -3,6 +3,8 @@
     - [Install](/{{route}}/{{version}}/install)
     - [Upgrade](/{{route}}/{{version}}/upgrade)
     - [Configurations](/{{route}}/{{version}}/configurations)
+    - [Demo Mode](/{{route}}/{{version}}/demo-mode)
+    - [Upcoming](/{{route}}/{{version}}/upcoming)
 
 - ## Features
     - [Messages](/{{route}}/{{version}}/features/messages)
@@ -10,10 +12,12 @@
     - [Comments](/{{route}}/{{version}}/features/comments)
     - [Social Sharing](/{{route}}/{{version}}/features/social-sharing)
     - [Followers](/{{route}}/{{version}}/features/followers)
+    - [Search Users](/{{route}}/{{version}}/features/search-users)
 
 - ## Account
     - [Settings](/{{route}}/{{version}}/settings/settings)
     - [Block & Report](/{{route}}/{{version}}/settings/block-report)
+    - [Notifications](/{{route}}/{{version}}/settings/notifications)
     
 - ## Admin Panel
     - [Dashboard](/{{route}}/{{version}}/admin/dashboard)

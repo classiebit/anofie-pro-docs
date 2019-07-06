@@ -45,22 +45,22 @@ Your questions will be available to the people, on your profile page. When any u
 
 Public questions means, when someone post a comment, the comment will be visible to everyone. Everyone can see all the comments of the public questions. And also you, as a question creator, can also post comment on your own questions.
 
-**This is called as multi-directional commenting**
+**You can call it multi-directional commenting**
 
 
 ### Un-Pinned: Private questions
 
 Private questions means, when someone post a comment, the comment will be only visible to `You & Commenter` only. And when you post a comment on your own question, it won't be visible to anyone until you make the question Public. 
 
-**This is called as uni-directional commenting**
+**Call it uni-directional commenting**
 
 
 
 <a name="mark-Pinned-Un-pinned"></a>
 ## Mark Pinned/Un-Pinned
 
-You can make your questions as `Pinned or Un-Pinned` on the `Messages page` from `Received - Comments tab` using the `pin icon` <larecipe-badge type="primary" circle icon="fa fa-thumbtack"></larecipe-badge>
+You can make your questions as `Pinned or Un-Pinned` on the `Messages page` from `Received - Comments tab` or `Comments Page` using the `pin icon` <larecipe-badge type="primary" circle icon="fa fa-thumbtack"></larecipe-badge>
 
 By default all questions are `Un-Pinned`. 
 
-> {info} You can Pin a question only after receiving atleast one comment on it.
+> {info} As a question asker, when post a comment, will only be visible to everyone, once after `Pin` <larecipe-badge type="primary" circle icon="fa fa-thumbtack"></larecipe-badge> the question.
