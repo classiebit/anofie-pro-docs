@@ -69,8 +69,8 @@ return [
     */
 
     'cache'       => [
-        'enabled' => false,
-        'period'  => 5
+        'enabled' => env('APP_ENV') == 'staging' ? true : false,
+        'period'  => 1440 // 24 hours
     ],
 
     /*
@@ -87,11 +87,11 @@ return [
     */
 
     'search'            => [
-        'enabled'       => false,
-        'default'       => 'algolia',
+        'enabled'       => true,
+        'default'       => 'internal',
         'engines'       => [
             'internal'  => [
-                'index' => ['h2', 'h3']
+                'index' => ['h1', 'h2', 'h3']
             ],
             'algolia'   => [
                 'key'   => '',
@@ -114,11 +114,11 @@ return [
 
     'ui'                 => [
         'code_theme'     => 'dark', // or: light
-        'fav'            => '',     // eg: fav.png
+        'fav'            => 'logo.png',     // eg: fav.png
         'fa_v4_shims'    => true, // Add FontAwesome v4 shims prevent BC break
         'colors'         => [
-            'primary'    => '#787AF6',
-            'secondary'  => '#2b9cf2'
+            'primary'    => '#6c80f3',
+            'secondary'  => '#172b4d'
         ],
     ],
 

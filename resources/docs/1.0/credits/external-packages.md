@@ -55,4 +55,4 @@ To enhance the performance, security and scalability of Anofie, internally we've
 
 [Argon Design System](https://github.com/creativetimofficial/argon-design-system) - Recently trending Bootstrap-4 component based HTML template. Without this, Anofie's beautiful design interface was not possible.
 
-> {primary.fa-smile} Once again! A big round of applause the open-source web community.
+> {primary.fa-smile} Once again! A big round of applause for the open-source web community.

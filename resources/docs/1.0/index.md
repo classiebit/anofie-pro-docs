@@ -1,8 +1,6 @@
 - ## Quick Start
     - [What The Hell](/{{route}}/{{version}}/what-the-hell)
     - [Install](/{{route}}/{{version}}/install)
-    - [Upgrade](/{{route}}/{{version}}/upgrade)
-    - [Configurations](/{{route}}/{{version}}/configurations)
     - [Demo Mode](/{{route}}/{{version}}/demo-mode)
     - [Upcoming](/{{route}}/{{version}}/upcoming)
 

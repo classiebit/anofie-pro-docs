@@ -22,12 +22,14 @@
                 <larecipe-button id="search-button"
                     :type="searchBox ? 'primary' : 'link'"
                     @click="searchBox = ! searchBox"
-                    class="px-4">
+                    class="px-4 mr-4">
                     <i class="fas fa-search" id="search-button-icon"></i>
                 </larecipe-button>
             @endif
 
-            <larecipe-button tag="a" href="https://github.com/saleem-hadad/larecipe" target="__blank" type="black" class="mx-2 px-4">
+            <larecipe-button tag="a" href="#" target="__blank" type="info" class="px-4">Live</larecipe-button>
+            
+            <larecipe-button tag="a" href="#" target="__blank" type="black" class="mx-2 px-4">
                 <i class="fab fa-github"></i>
             </larecipe-button>
 
