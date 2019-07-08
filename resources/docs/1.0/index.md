@@ -35,9 +35,6 @@
     - [Master Settings](/{{route}}/{{version}}/admin/master-settings)
     - [Multi Languages](/{{route}}/{{version}}/admin/multi-languages)
 
-- ## Credits
-    - [External Packages](/{{route}}/{{version}}/credits/external-packages)
-    
 - ## Changelog
     - [V1.0](/{{route}}/{{version}}/changelog/V1.0)
 

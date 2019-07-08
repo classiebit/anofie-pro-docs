@@ -1,30 +1,29 @@
 # Multiple Languages
 
-Anofie supports multi-languages, including Russian, Portugese, Chinese (simple & traditional both), Japanese and including RTL (right to left) directional languages e.g Arabic, Persian, Urdu, etc.
+Anofie supports multiple languages, including Russian, Portugese, Chinese, Japanese and even RTL languages such as Arabic, Persian, Urdu, etc.
 
 > {info} Please read the below guidelines to add a new language or update existing one.
 
 ---
 
-- [Add Language](#Add-Language)
-- [Update Language](#Update-Language)
-- [RTL Language](#RTL-Language)
+- [Add New Language](#Add-New-Language)
 
 
 <a name="Add-Language"></a>
 ## Add Language
 
-Here you can change the branding content of your site.
+You can find all the language files in `application/language` directory. If you want to add a new langauge then simply copy the `english` directory and paste it as `<your_language_name>`.
 
+> {info} Recommended file to translate- `core_lang`
 
-<a name="Update-Language"></a>
-## Update Language
+e.g Suppose you wanna add `mandarin` langauge. Then give copy the `english` folder and rename it as `mandarin` and translate all the files inside except variables names.
 
-Here you can change the meta tags, these tags will be applied on all pages of the site.
+```bash
 
+    application
+        │
+        ├── langauge
+            ├── english
+            └── mandarin
 
-<a name="RTL-Language"></a>
-## RTL Language
-
-Here you can set your social media pages URL.
-
+    ```
