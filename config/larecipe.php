@@ -135,15 +135,15 @@ return [
     */
 
     'seo'                 => [
-        'author'          => '',
-        'description'     => '',
-        'keywords'        => '',
+        'author'          => 'classiebit',
+        'description'     => 'Receive honest feedbacks and specific question\'s answers from your co-workers, friends and people around you.',
+        'keywords'        => 'anofie, docs, anonymous, feedback, messaging, social, network, personal, questions, answers',
         'og'              => [
-            'title'       => '',
+            'title'       => 'Anofie Pro - Docs',
             'type'        => 'article',
-            'url'         => '',
-            'image'       => '',
-            'description' => '',
+            'url'         => 'http://docs.anofie-pro.classiebit.com',
+            'image'       => 'http://docs.anofie-pro.classiebit.com/logo.png',
+            'description' => 'Receive honest feedbacks and specific question\'s answers from your co-workers, friends and people around you.',
         ]
     ],
 

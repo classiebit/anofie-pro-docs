@@ -2,6 +2,10 @@
 
 Anofie comes with a installer which make the installation process smoother as beer 🍻 (cheers!)
 
+
+![screenshot](http://anofie_docs.test/images/anofie-pro-installer.png)
+
+
 ---
 
 - [Server Requirements](#Server-Requirements)
