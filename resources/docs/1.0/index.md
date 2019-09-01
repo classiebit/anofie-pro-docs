@@ -1,7 +1,7 @@
 - ## Quick Start
-    - [What The Hell](/{{route}}/{{version}}/what-the-hell)
+    - [Intro](/{{route}}/{{version}}/intro)
     - [Install](/{{route}}/{{version}}/install)
-    - [Demo Mode](/{{route}}/{{version}}/demo-mode)
+    - [Demo Accounts](/{{route}}/{{version}}/demo-accounts)
     - [Upcoming](/{{route}}/{{version}}/upcoming)
 
 - ## Features

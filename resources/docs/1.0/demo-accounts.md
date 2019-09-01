@@ -1,14 +1,13 @@
-# Demo Mode
+# Demo Accounts
 
-To provide a seamless experience to new visitors and regular visitors, we've developed a completely visitors centric demo mode. So you as a new and regular visitor, you can checkout Anofie's all features with a very few boundations, even you can visit `Admin panel` anytime.
+We've created some `demo accounts` and added `demo data` into them to showcase all the features of Anofie Pro.
 
-> {primary} The best part is, we do not refresh the database to clear the visitors dummy data. We keep your dummy data so that you can test with it anytime.
+1. If you've logged in using a demo account, you can do whatever you want, no restrictions.
 
-We've created some `demo accounts` and added `demo data` into them to showcase all the features of Anofie. 
+2. We refresh the database everyday.
 
-1. If you've logged in using a demo account, then you only have `read and write permission`, and no `delete or modify permission`.
 
-2. If you've Signup and login as a new user, then you have all the permissions `read, write, delete and modify`.
+Below are all the demo accounts and their credentials.
 
 
 - [Demo Accounts](#Demo-Accounts)

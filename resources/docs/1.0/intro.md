@@ -23,8 +23,6 @@ Receive honest feedbacks and specific question's answers from your co-workers, f
 > {info.fa-globe} Anofie supports all the different timezones and languages from all around the world.
 
 
-![screenshot](https://larecipe.binarytorch.com.my/images/screenshot.png)
-
 
 <a name="Free-version"></a>
 ## Free Version
