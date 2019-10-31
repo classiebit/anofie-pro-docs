@@ -17,6 +17,7 @@ return [
         'route'   => '/docs',
         'path'    => '/resources/docs',
         'landing' => 'introduction',
+        'middleware' => ['web'],
     ],
 
     /*
@@ -70,7 +71,7 @@ return [
 
     'cache'       => [
         'enabled' => env('APP_ENV') == 'staging' ? true : false,
-        'period'  => 1440 // 24 hours
+        'period'  => 5
     ],
 
     /*

@@ -18,20 +18,13 @@
     
 - ## Admin Panel
     - [Dashboard](/docs/{{version}}/admin/dashboard)
-    - [Frames](/docs/{{version}}/admin/frames)
-    
-- ## User Management
     - [Users](/docs/{{version}}/admin/users)
-    - [User Groups](/docs/{{version}}/admin/user-groups)
-    - [Manage ACL](/docs/{{version}}/admin/manage-acl)
-    
-- ## Site Administration
     - [Pages](/docs/{{version}}/admin/pages)
-    - [Master Settings](/docs/{{version}}/admin/master-settings)
-    - [Multi Languages](/docs/{{version}}/admin/multi-languages)
-
-- ## Changelog
-    - [V1.0](/docs/{{version}}/changelog/V1.0)
+    - [Multi-Language](/docs/{{version}}/admin/multi-language)
+    - [Settings](/docs/{{version}}/admin/settings)
 
 - ## Contact
     - [Support](/docs/{{version}}/contact/support)
+
+- ## Changelog
+    - [V1.0](/docs/{{version}}/changelog/V1.0)

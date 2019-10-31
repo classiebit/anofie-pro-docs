@@ -18,6 +18,7 @@ Admin Dashboard gives a quick overview of what's happening on the website.
 - [Reports](#Reports)
 - [Messages](#messages)
 - [Questions & Comments](#Questions-Comments)
+- [Frames](#Frames)
 - [Contacts](#Contacts)
 
 
@@ -80,6 +81,18 @@ All the users sent and received messages except Reported, can be seen on the Mes
 ## Questions & Comments
 
 Questions page shows all the questions and comments along with the question creator. Admin can set the Question's `Status` to `Enable/Disable` and the question become unavailable for everyone. Click on the &nbsp;&nbsp;<larecipe-badge type="info" rounded>View</larecipe-badge>&nbsp;&nbsp; button after each question to see all its the comments.
+
+
+<a name="Frames"></a>
+## Frames
+
+Add new messages background frames here, which will then be shown on the user's Profile page
+
+>{info} The frame image size and type must be the same as mentioned. 
+
+---
+
+>{warning} When you disable a frame, it will disappear from the user's profile page. 
 
 
 <a name="Contacts"></a>

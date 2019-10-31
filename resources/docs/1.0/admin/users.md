@@ -1,14 +1,75 @@
 # Users
 
-You can manage your site users from the `Admin panel - users` page. You can temporarily disable their account or permanently delete their accounts.
+Site users can be managed from the Users page. Admin can temporarily disable their account by turning `Status` `On/Off` or permanently delete them.
 
-> {info} You can change a user's group on the `User - edit` page. By default, a new user will be assigned with `Members - Public` group.
+> {info} User's group can be changed from `User - Edit` page. By default, a new user is assigned with `Members` (public) group.
 
 ---
 
 - [Authentic](#Authentic)
+- [User Groups](#User-Groups)
+- [Manage ACL](#Manage-ACL)
+
+
 
 <a name="Authentic"></a>
 ## Authentic
 
-By default, the user's Authentic status is set as `Normal User`. When you set a user's to `Authentic`, a blue checkmark <larecipe-badge type="primary" circle icon="fa fa-check-circle"></larecipe-badge> can be seen after the user name, which is a sign of Authentic user.
+By default, the user's Authentic status is `Normal`. When a user's status set to `Authentic`, a blue checkmark <larecipe-badge type="primary" circle icon="fa fa-check-circle"></larecipe-badge> can be seen after the user name, denoting a user as Authentic.
+
+
+<a name="User-Groups"></a>
+## User Groups
+
+This is about making multiple user groups and assigns them different permissions for managing different modules throughout the `Admin Panel`.
+
+
+### Default Groups
+
+3 default groups can't be modified or deleted. `Members` group users are restricted to Admin Panel, all other group users can access admin panel.
+
+- Admin
+    
+    Super Admin group, have all the permissions on the admin panel.
+
+- Members
+
+    Public group, this group user can't visit the admin panel. (front-end access only)
+
+- Editors
+
+    Semi-admin group, this group user can visit the admin panel, depending on the permissions assigned on Manage ACL
+
+
+>{primary} Admin can create unlimited groups according to different needs. 
+
+
+<a name="Manage-ACL"></a>
+## Manage ACL
+
+Manage Access Control List of user groups. Assign the groups permissions to access a modules e.g Messages - `View` `Add` `Edit` `Delete` operations.
+
+---
+
+![access control list](https://anofie-docs.classiebit.com/images/acl-1.jpg "access control list")
+
+---
+
+
+### Assign View | Add | Edit | Delete Permissions
+
+4 types of permissions can be assigned to limit access of different group to each module.
+
+<br>
+
+- **View** User can view the module or not.
+- **Add** User can add new data to the module or not.
+- **Edit** User can modify the existing data in the module or not.
+- **Delete** User can delete the existing data in the module or not.
+
+--- 
+
+> {warning} `Admin` & `Members` group permissions can't be modified.
+
+
+
