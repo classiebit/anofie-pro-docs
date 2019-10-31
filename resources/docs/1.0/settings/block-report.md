@@ -1,31 +1,29 @@
 # Block Users
 
-You can block other users, and the blocked users won't be able to -
+Users can block another user directly on the `Messages` page, from the message sent by the user. When a user blocks another user, all the conversations between them get removed from both the user's account.
 
 <br>
-1. Search 
-2. Send message 
-3. Write comments 
-4. Visit profile
+Blocked users won't be able to -
+    1. Search 
+    2. Send message 
+    3. Write comments 
+    4. Visit profile
 
-
-> {danger} User blocking is a permanent action, you can't be able to unblock the user again. And the other blocked user can never be able to visit your profile.
+> {danger} User blocking is a permanent action, the blocked user can't be unblocked again.
 
 ---
 
-- [Block Directly](#Block-Directly)
+>{info} All the blocked users can be seen by `Admin` from the `Admin Panel`.
+
+
 - [Report Message](#Report-Message)
-
-
-<a name="Block-Directly"></a>
-## Block Directly
-
-You can block a user directly from `Messages` page, from the message sent by the user. When you block a user, all the conversations between you and the user get removed from both your's and the user's account.
-
-> {danger} After blocking, you and the blocked user will never be available to each other, forever.
 
 
 <a name="Report-Message"></a>
 ## Report Message
 
-You can report an inappropriate message from the `Messages` page, which then be reviewed by Admin. And the message gets removed from your and the user's (sender) account.
+In case of spam, abusive or inappropriate message, the message can be reported from the &nbsp;<larecipe-button type="primary" rounded>Messages</larecipe-button>&nbsp; page, which will then be reviewed by the Admin. The reported message gets removed from both the **Sender** & **Receiver** accounts.
+
+---
+
+>{danger} Inappropriate users can be removed permanently from the `Admin Panel`

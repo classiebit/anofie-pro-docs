@@ -1,6 +1,6 @@
 # Account Settings
 
-You can modify your account privacy settings from `Settings` page.
+Change account privacy settings from `Settings` page. Hover over profile icon in the header and click `settings` <larecipe-badge type="primary" circle icon="fa fa-cog"></larecipe-badge>
 
 ---
 
@@ -12,40 +12,40 @@ You can modify your account privacy settings from `Settings` page.
 <a name="General"></a>
 ## General
 
+- Change profile picture
+- Set Fullname in any language
+- Desired username
+- Email
 - Allow Anonymous People To Post
 
-    If checked, registered and unregistered (anonymous) users can send you messages. And if unchecked, only registered users can send you messages.
-
+    * If checked, registered and unregistered (anonymous) users can send you messages. And if unchecked, only registered users can send you messages.
 
 - Email Notifications
 
-    If you want to receive Email Notifications for every message and comment you receive.
-    
+    * Want to Receive Email Notifications about every new received message and comment.
 
 - Appear In Search
 
-    If you don't want to be searched, and only want other users to visit your profile using your `Profile URL` you share. 
+    * Want to be searched or not, Uncheck it, if you want other users to visit your profile using your `Profile URL` only. 
 
 
 <a name="Disable-Account"></a>
 ## Disable Account
 
-When you disable your account, you'll no longer available to other users.
+When the users disable their account, they'll no longer available to other users.
+- No one can search or visit their profile.
+- No one can send them messages.
+- No one can see their questions or write comments on them.
 
 <br>
-- No one can search you or visit your profile.
-- No one can send you feedbacks.
-- No one can see your questions and comment on them.
 
-<br>
-
-But later on if you change your mind, and want to re-enable your account, you can do so by login with same credentials. And all the messages and comments that were disabled, will get re-enabled.
+But later on, if the user changes their mind, and wants to re-enable their account, they can do so by logging in with the same credentials. And all the messages, questions and comments that were disabled, get restored and re-enabled again.
 
 
 <a name="Delete-Account"></a>
 ## Delete Account
 
-This is a permanent action, and your account will be deleted forever. You can no longer be able to access your account again. And also you'll be no longer available for other users.
+Deleting account is a **PERMANENT** action, the account will be deleted forever. No one on the **front-end** will be able to search the user, visit profile or send a message.
 
 
-> {warning} So, instead of deleting the account, we recommend you to disable it.
+> {info} Admin can always see the deleted account from the `Admin Panel`

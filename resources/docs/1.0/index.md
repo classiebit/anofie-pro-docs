@@ -1,42 +1,37 @@
 - ## Quick Start
-    - [Intro](/{{route}}/{{version}}/intro)
-    - [Install](/{{route}}/{{version}}/install)
-    - [Demo Accounts](/{{route}}/{{version}}/demo-accounts)
-    - [Upcoming](/{{route}}/{{version}}/upcoming)
+    - [Introduction](/docs/{{version}}/introduction)
+    - [Installation](/docs/{{version}}/installation)
+    - [Demo Accounts](/docs/{{version}}/demo-accounts)
 
 - ## Features
-    - [Messages](/{{route}}/{{version}}/features/messages)
-    - [Questions](/{{route}}/{{version}}/features/questions)
-    - [Comments](/{{route}}/{{version}}/features/comments)
-    - [Social Sharing](/{{route}}/{{version}}/features/social-sharing)
-    - [Followers](/{{route}}/{{version}}/features/followers)
-    - [Search Users](/{{route}}/{{version}}/features/search-users)
+    - [Messages](/docs/{{version}}/features/messages)
+    - [Questions](/docs/{{version}}/features/questions)
+    - [Comments](/docs/{{version}}/features/comments)
+    - [Social Sharing](/docs/{{version}}/features/social-sharing)
+    - [Followers](/docs/{{version}}/features/followers)
+    - [Search Users](/docs/{{version}}/features/search-users)
 
 - ## Account
-    - [Settings](/{{route}}/{{version}}/settings/settings)
-    - [Block & Report](/{{route}}/{{version}}/settings/block-report)
-    - [Notifications](/{{route}}/{{version}}/settings/notifications)
+    - [Block & Report](/docs/{{version}}/settings/block-report)
+    - [Notifications](/docs/{{version}}/settings/notifications)
+    - [Settings](/docs/{{version}}/settings/settings)
     
 - ## Admin Panel
-    - [Dashboard](/{{route}}/{{version}}/admin/dashboard)
-    - [Reports](/{{route}}/{{version}}/admin/reports)
-    - [Messages](/{{route}}/{{version}}/admin/messages)
-    - [Questions](/{{route}}/{{version}}/admin/questions)
-    - [Contacts](/{{route}}/{{version}}/admin/contacts)
-    - [Frames](/{{route}}/{{version}}/admin/frames)
+    - [Dashboard](/docs/{{version}}/admin/dashboard)
+    - [Frames](/docs/{{version}}/admin/frames)
     
 - ## User Management
-    - [Users](/{{route}}/{{version}}/admin/users)
-    - [User Groups](/{{route}}/{{version}}/admin/user-groups)
-    - [Manage ACL](/{{route}}/{{version}}/admin/manage-acl)
+    - [Users](/docs/{{version}}/admin/users)
+    - [User Groups](/docs/{{version}}/admin/user-groups)
+    - [Manage ACL](/docs/{{version}}/admin/manage-acl)
     
 - ## Site Administration
-    - [Pages](/{{route}}/{{version}}/admin/pages)
-    - [Master Settings](/{{route}}/{{version}}/admin/master-settings)
-    - [Multi Languages](/{{route}}/{{version}}/admin/multi-languages)
+    - [Pages](/docs/{{version}}/admin/pages)
+    - [Master Settings](/docs/{{version}}/admin/master-settings)
+    - [Multi Languages](/docs/{{version}}/admin/multi-languages)
 
 - ## Changelog
-    - [V1.0](/{{route}}/{{version}}/changelog/V1.0)
+    - [V1.0](/docs/{{version}}/changelog/V1.0)
 
 - ## Contact
-    - [Support](/{{route}}/{{version}}/contact/support)
+    - [Support](/docs/{{version}}/contact/support)

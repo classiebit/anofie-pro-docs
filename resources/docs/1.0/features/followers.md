@@ -1,9 +1,8 @@
 # Followers
 
-You can follow a user anonymously/secretly from his/her profile page. You can see who you're following but the other user can't see his/her followers list. Only he/she can see the total number of followers.
+Users can anonymously follow any other user from their respective profile pages. Users can see whom they're **following** but can't see their **followers** list. Instead, the user can see only the total **number** of followers.
 
 <br>
-You can see who you're following on the `Messages` page `Following` tab.
+Users can see to whom they're following, on the `Messages` page `Following` tab.
  
-
 > {info} In upcoming versions, we're gonna add some more features in Followers module, if you've any ideas, you can submit a feature request.

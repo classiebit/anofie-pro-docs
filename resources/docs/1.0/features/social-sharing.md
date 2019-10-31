@@ -1,8 +1,8 @@
 # Social Sharing
 
-You can share your profile and messages on social media. You can share on Facebook, Twitter and Whatsapp.
+Users can share their profile and messages on social media i.e Facebook, Twitter & Whatsapp.
 
-> {success} And the best part is, you can share the message in any language Chinese, Japanese, Arabic and more. (yess!!! WE MEAN ANY LANGUAGE).
+> {success} And the best part, messages can be shared in any language Chinese, Japanese, Arabic, etc. (yes!!! we mean any language).
 
 ---
 
@@ -13,14 +13,13 @@ You can share your profile and messages on social media. You can share on Facebo
 <a name="Share-Profile"></a>
 ## Share Profile
 
-You can share your profile from the `Messages` page. When you share your profile, on the social media, the link of your profile URL will be shared, so that when someone click on it, he/she can redirected to your profile page and can send you message or post a comment on one of your question.
+The user profile can be shared from the `Messages` page. When a user shares their profile on social media, the link of user profile URL e.g `example.com/johndoe` or `johndoe.example.com` get shared, so that when someone clicks on that post on Social media, they can be redirected directly to the user profile page and from where they can send message or post comment.
 
 
 <a name="Share-Message"></a>
 ## Share Message
 
-You can share a message your received on the social media. If someone sent you message with a background frame, it'll be shared along that background frame.
+Users can also share their messages on social media. Also, the messages received with the background frame can be shared along with the background frame.
 
-**We've changed the whole sharing algorithm and logic.**
 
-> {info} The domain and site name in shared image is dynamic, and works according to your domain and site name.
+> {success} Domain name, site name and site logo in the shared image are dynamic, and works according to the `Settings` in the `Admin Panel`.

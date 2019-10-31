@@ -1,27 +1,22 @@
 # Demo Accounts
 
-We've created some `demo accounts` and added `demo data` into them to showcase all the features of Anofie Pro.
+Demo accounts have got `demo data` to easily showcase all the features of Anofie Pro.
 
-1. If you've logged in using a demo account, you can do whatever you want, no restrictions.
+<br>
+1. We refresh the database every day.
+2. While in demo mode, there are no restrictions except -
 
-2. We refresh the database everyday.
+    - Deleting or Disabling user account.
+    - Changing Username, email, password and profile pic.
 
+---
 
-Below are all the demo accounts and their credentials.
+To test in a specific language, we've mentioned language preference after each demo account- 
+`e.g Roman Pane (Russian)`, so when you log in via `romanpane@mail.com` please change the language (see in the footer) to `Russian` to see everything in `Russian`
 
+> {info} Password is same for all - `password`
 
-- [Demo Accounts](#Demo-Accounts)
-
-
-<a name="Demo-Accounts"></a>
-## Demo Accounts
-
-Below are all the demo accounts and their credentials. If you want to test in any specific language, then there's also a solution for that.
-We've mentioned language preference after each demo account, `e.g Roman Pane (Russian)`, so after login using this account please change the language to `Russian` to see everything in `Russian`
-
-> {primary} Password for all the below accounts is same - `password`
-
-1. David lane (English)         - `davidlane@mail.com`
+1. David Lane (English)         - `davidlane@mail.com`
 2. Cora Woods (English)         - `corawoods@mail.com`
 
 3. Roman Pane (Russian)         - `romanpane@mail.com`
@@ -37,11 +32,12 @@ We've mentioned language preference after each demo account, `e.g Roman Pane (Ru
 10. Sonia Maxwell (Japanese)    - `soniamaxwell@mail.com`
 
 
-### Semi-Admin Account
 
-Email - `semiadmin@mail.com` | Password - `password`
+### Accounts having access to `Admin Panel`
 
+1. Semi-Admin (limited admin)   - `semiadmin@mail.com`
+2. Super-Admin (full access)    - `admin@admin.com`
 
-### Super-Admin Account
+---
 
-Email - `admin@admin.com` | Password - `admin123`
+>{primary} To visit `Admin Panel` hover over profile icon in the header and click <larecipe-badge type="warning" circle icon="fa fa-dashboard"></larecipe-badge>

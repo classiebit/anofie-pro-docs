@@ -16,7 +16,7 @@ return [
     'docs'        => [
         'route'   => '/docs',
         'path'    => '/resources/docs',
-        'landing' => 'intro',
+        'landing' => 'introduction',
     ],
 
     /*

@@ -1,7 +1,9 @@
 # Notifications
 
-You get notifications about each new message or comment you receive on the messages page. Along with that, you will receive a notification email about new messages and comments
+Users get notifications about every new received message and comment. Notifications are shown on the &nbsp;<larecipe-button type="primary" rounded>Messages</larecipe-button>&nbsp; page.
 
-> {info} Notification email will only be send, if you have enabled `Email Notifications` in your account settings.
+>{success} Notifications are sent via email as well.
 
 ---
+
+>{warning} Make sure you added correct `Email Credentials` in the `Admin Panel` -> `Mail Configurations`

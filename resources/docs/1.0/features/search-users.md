@@ -1,9 +1,12 @@
 # Search Users
 
-You can search all the other site users by their `Name, username or email`. The best part is, now you can search users in any language.
+Search site users by their `Name, username or email`. The best part is, Users' names can be in any language **Chinese**, **Japanese**, **Russian**, **Arabic**, and more. So the search keyword can be of any language. 
 
-<br>
-User can add their fullname in any language, and so, you can also search the user by his/her name in any language.
- 
+---
 
-> {info} You can search users either you're logged in or not.
+![Search users](https://anofie-docs.classiebit.com/images/search-1.jpg "Search users")
+
+---
+
+
+> {info} Searching works in both cases either logged in or not.

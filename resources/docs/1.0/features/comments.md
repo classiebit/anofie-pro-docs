@@ -1,8 +1,10 @@
 # Comments
 
-In Anofie, comments are like answers to the questions. You can post a comment on any question. The Commenter identity is always visible to the one who is asking the question. You can see all the `Received` and `Sent` comments on the `Messages` page from the `Received - Comments` and `Sent - Comments` tabs.
+### Comments refers to Question's Answers 
 
-> {info} Only registered users can post comments
+Users can post a comment on any question. The Commenter identity is always visible to the question creator. All the received and posted comments can be seen on the `Messages` page from the `Received - Comments` and `Sent - Comments` tabs.
+
+> {warning} Only registered users can write Comments
 
 ---
 
@@ -15,24 +17,22 @@ In Anofie, comments are like answers to the questions. You can post a comment on
 <a name="Received"></a>
 ## Received
 
-You can see all the received comments on your questions, on the `Messages` page. You'll get notified whenever someone post a comment on your question.
-
-Then on the `Received - Comments` tab, you'll always see latest comment each question, and when you click on `View all comments`, you'll be redirected to the main `Comments` page.
+Users can see all the received comments on the `Messages` page. They'll get notified whenever someone posts a comment on their questions. On the `Received - Comments` Tab, when the user clicks on `view all comments`, it redirects to the main `Comments` page. 
 
 
 <a name="Favorite"></a>
 ## Favorite
 
-You can mark your favorite comment as favorite using the `heart icon` <larecipe-badge type="danger" circle icon="fa fa-heart"></larecipe-badge> and you'll see your favorite comments in the `Favorites tab`.
+Comments can be marked as Favorite using the `heart icon` <larecipe-badge type="danger" circle icon="fa fa-heart"></larecipe-badge> and Favorite comments can be seen in the `Favorites tab` on the messages page.
 
 
 <a name="Sent"></a>
-## Sent
+## Sent/Posted
 
-You can see all your posted comments on other user's questions, on the `Messages` page `Sent - Comments` tab and when you click on `View all comments`, you'll be redirected to the main `Comments` page.
+Users can see all their posted comments on the `Messages` page `Sent - Comments` tab.
 
 
 <a name="Delete"></a>
 ## Delete
 
-When you delete a comment, it gets deleted for everyone.
+When a user deletes their comment, it gets deleted for everyone.
