@@ -7,10 +7,6 @@ In the same way, when you receive a message, you can't see the Sender's identity
 
 ---
 
-![Send Framed message](https://anofie-pro-docs.classiebit.com/images/framed-message-1.jpg "Send Framed message")
-
----
-
 > {primary} Anofie Pro is even more than that, keep reading documentation till end ⚡️
 
 ---
@@ -28,6 +24,12 @@ In the same way, when you receive a message, you can't see the Sender's identity
 
 Send a message with a background frame. Users can choose among multiple background frames from the user profile page. And the receiver will see the message with the same background frame. 
 
+---
+
+![Send Framed message](https://anofie-pro-docs.classiebit.com/images/framed-message-1.jpg "Send Framed message")
+
+---
+
 
 <a name="Reply-Type"></a>
 ## Reply Type
@@ -36,6 +38,12 @@ Suppose a user send a message but don't want to receive further replies, then th
 
 > {info} The conversation ends after sending a smiley in reply.
 
+---
+
+![Reply Type](https://anofie-pro-docs.classiebit.com/images/reply-type-1.jpg "Reply Type")
+
+---
+
 
 <a name="Reply"></a>
 ## Reply
@@ -43,6 +51,12 @@ Suppose a user send a message but don't want to receive further replies, then th
 All the sent and received messages can be seen on the `Messages` page. And from there users can reply to received messages by clicking on the `Reply icon` <larecipe-badge type="success" circle icon="fa fa-reply"></larecipe-badge>. The twist, without knowing whom you're replying to.
 
 > {info} Users can only reply to the messages received from registered users.
+
+---
+
+![Feedback Reply](https://anofie-pro-docs.classiebit.com/images/reply-1.jpg "Feedback Reply")
+
+---
 
 
 

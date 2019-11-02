@@ -4,7 +4,7 @@ Admin Dashboard gives a quick overview of what's happening on the website.
 
 ---
 
-![Anofie Dashboard](https://anofie-docs.classiebit.com/images/dashboard.jpg "Anofie Dashboard")
+![Anofie Pro Dashboard](https://anofie-pro-docs.classiebit.com/images/dashboard-1.jpg "Anofie Pro Dashboard")
 
 ---
 

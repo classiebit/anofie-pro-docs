@@ -4,7 +4,7 @@ Anofie supports multiple languages, including Russian, Portuguese, Chinese, Japa
 
 ---
 
-![multi-language](https://anofie-docs.classiebit.com/images/multi-language.jpg "multi-language")
+![Multi-language with RTL support](https://anofie-pro-docs.classiebit.com/images/multi-language-1.jpg "Multi-language with RTL support")
 
 ---
 

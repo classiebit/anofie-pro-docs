@@ -28,6 +28,12 @@ Change account privacy settings from `Settings` page. Hover over profile icon in
 
     * Want to be searched or not, Uncheck it, if you want other users to visit your profile using your `Profile URL` only. 
 
+---
+
+![Account Settings](https://anofie-pro-docs.classiebit.com/images/account-setting-1.jpg "Account Settings")
+
+---
+
 
 <a name="Disable-Account"></a>
 ## Disable Account
@@ -40,6 +46,12 @@ When the users disable their account, they'll no longer available to other users
 <br>
 
 But later on, if the user changes their mind, and wants to re-enable their account, they can do so by logging in with the same credentials. And all the messages, questions and comments that were disabled, get restored and re-enabled again.
+
+---
+
+![Temporarily Disable Account](https://anofie-pro-docs.classiebit.com/images/disable-account-1.jpg "Temporarily Disable Account")
+
+---
 
 
 <a name="Delete-Account"></a>

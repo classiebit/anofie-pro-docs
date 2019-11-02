@@ -1,10 +1,10 @@
-# Master Settings
+# Settings
 
 Manage Anofie's global settings here.
 
 ---
 
-![global settings](https://anofie-docs.classiebit.com/images/settings.jpg "global settings")
+![Admin Panel Settings](https://anofie-pro-docs.classiebit.com/images/admin-settings.jpg "Admin Panel Settings")
 
 ---
 
@@ -57,6 +57,12 @@ Anofie Pro comes with compatibility for both Wildcard enabled and non-enabled we
 
 
 > {danger} MOST IMPORTANT: Subdomain URL `johndoe.anofie.com` will only work if you've installed Anofie as a `Parent site` on the domain. If installed on `subdomain` or as a `Child site`, the above setting will not work. 
+
+---
+
+![Wildcard-subdomain](https://anofie-pro-docs.classiebit.com/images/wildcard-subdomain-1.jpg "Wildcard-subdomain")
+
+---
 
 
 <a name="Mail"></a>

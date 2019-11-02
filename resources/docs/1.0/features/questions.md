@@ -2,6 +2,12 @@
 
 This is one of the most interesting features of Anofie Pro. Sometimes you want to know what people think about you in some specific areas. That's where the `Questions` comes in. Users can ask questions from the people around. Questions can be added from the `Messages page` by clicking on `Add Questions`.
 
+---
+
+![Ask Questions](https://anofie-pro-docs.classiebit.com/images/questions-1.jpg "Ask Questions")
+
+---
+
 
 - [Status](#Status)
 - [Hide/Show](#Hide-Show)
@@ -14,6 +20,12 @@ This is one of the most interesting features of Anofie Pro. Sometimes you want t
 
 To be more specific about a question, users can also write the Question's status while adding a question. It's like adding a guess about the type of response to expect.
 
+---
+
+![Ask Questions with status](https://anofie-pro-docs.classiebit.com/images/question-status-1.jpg "Ask Questions with status")
+
+---
+
 
 <a name="Hide-Show"></a>
 ## Hide/Show
@@ -23,6 +35,12 @@ If a user deletes a Question, it can never be restored and all the comments/answ
 
 > {primary} Now, you may be thinking, how people will know about the newly added questions? Forks, keep reading 😎
 
+---
+
+![Hide/show Questions](https://anofie-pro-docs.classiebit.com/images/question-hide-show-1.jpg "Hide/show Questions")
+
+---
+
 
 <a name="Profile-Page"></a>
 ## Profile Page
@@ -30,6 +48,12 @@ If a user deletes a Question, it can never be restored and all the comments/answ
 The Profile page is where users find each other. All the questions get published to the Profile page. And from there, visiting users can write comments on the questions.
 
 > {warning} Only registered users can write Comments on Questions
+
+---
+
+![Questions & Comments](https://anofie-pro-docs.classiebit.com/images/question-on-profile-page-1.jpg "Questions & Comments")
+
+---
 
 
 <a name="Pinned-Questions"></a>

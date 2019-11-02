@@ -4,7 +4,7 @@ Search site users by their `Name, username or email`. The best part is, Users' n
 
 ---
 
-![Search users](https://anofie-docs.classiebit.com/images/search-1.jpg "Search users")
+![Search users](https://anofie-pro-docs.classiebit.com/images/search-1.jpg "Search users")
 
 ---
 
