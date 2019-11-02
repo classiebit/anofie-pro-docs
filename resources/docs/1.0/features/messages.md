@@ -7,6 +7,10 @@ In the same way, when you receive a message, you can't see the Sender's identity
 
 ---
 
+![Send Framed message](https://anofie-pro-docs.classiebit.com/images/framed-message-1.jpg "Send Framed message")
+
+---
+
 > {primary} Anofie Pro is even more than that, keep reading documentation till end ⚡️
 
 ---
