@@ -142,8 +142,8 @@ return [
         'og'              => [
             'title'       => 'Anofie Pro - Docs',
             'type'        => 'article',
-            'url'         => 'http://docs.anofie-pro.classiebit.com',
-            'image'       => 'http://docs.anofie-pro.classiebit.com/logo.png',
+            'url'         => 'https://anofie-pro-docs.classiebit.com',
+            'image'       => 'https://anofie-pro-docs.classiebit.com/logo.png',
             'description' => 'Receive honest feedbacks and specific question\'s answers from your co-workers, friends and people around you.',
         ]
     ],
