@@ -26,7 +26,7 @@ Send a message with a background frame. Users can choose among multiple backgrou
 
 ---
 
-![Send Framed message](https://anofie-pro-docs.classiebit.com/images/framed-message-1.jpg "Send Framed message")
+![Send Framed message](https://anofie-pro-docs.classiebit.com/images/message-framed-1.jpg "Send Framed message")
 
 ---
 
