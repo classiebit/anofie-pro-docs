@@ -7,7 +7,7 @@ Welcome to Anofie Pro documentation for initial stable version 1.0
 ![Anofie Pro - Anonymous Feedback script remastered](https://anofie-pro-docs.classiebit.com/images/anofie-pro-docs-banner-1.jpg "Anofie Pro - Anonymous feedback script remastered")
 
 
-> {info.fa-youtube} Here's a complete video tutorial guide for getting started quickly **[Anofie Pro Academy](https://classiebit.com/academy/anofie-pro/getting-started)** ✌️
+> {info.fa-youtube} A complete video tutorial guide for getting started quickly is **Coming Soon**
 
 ---
 

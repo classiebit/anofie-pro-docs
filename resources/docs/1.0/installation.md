@@ -7,7 +7,7 @@ Anofie Pro comes with an installer that makes the installation process fully aut
 ![Anofie Pro Installer](https://anofie-pro-docs.classiebit.com/images/pro-installer-1.jpg "Anofie Pro Installer")
 
 
-> {info.fa-youtube} Here's a complete video tutorial guide for getting started quickly **[Anofie Pro Academy](https://classiebit.com/academy/anofie-pro/getting-started)** ✌️
+> {info.fa-youtube} A complete video tutorial guide for getting started quickly is **Coming Soon**
 
 ---
 
