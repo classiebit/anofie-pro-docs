@@ -14,6 +14,7 @@ Anofie Pro comes with an installer that makes the installation process fully aut
 - [Server Requirements](#Server-Requirements)
 - [Remember](#Remember)
 - [Install](#Install)
+- [Purchased From Codecanyon](#Purchased-From-Codecanyon)
 
 
 <a name="Server-Requirements"></a>
@@ -21,6 +22,7 @@ Anofie Pro comes with an installer that makes the installation process fully aut
 
 * PHP version **5.6** or newer is recommended.
 * Make sure **.htaccess** is enabled.
+* Required PHP Extensions - `Mbstring`, `BC Math`, `GMP`
 
 
 <a name="Remember"></a>
@@ -64,6 +66,19 @@ Anofie Pro comes with an installer that makes the installation process fully aut
 
 
 >{warning} Make sure **.htaccess** files exist and not hidden.
+
+
+<a name="Purchased-From-Codecanyon"></a>
+## Purchased From Codecanyon
+
+If you've purchased Anofie Pro from Codecanyon `codecanyon.net` then follow these simple steps-
+
+1. Enter `Purchase-code` as License key in Anofie Pro installer.
+2. Visit [classiebit.com](https://classiebit.com), signup as new user and go to [Downloads](https://classiebit.com/downloads)
+3. Click on <larecipe-button radius="half" type="black">Purchased from Codecanyon?</larecipe-button>
+4. In the popup, enter the Purchase-code and submit. You'll see the product in the downloads list.
+5. At last, add the authorize domain. And you're good to go. 👍
+
 
 ---
 
