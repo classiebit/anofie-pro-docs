@@ -20,7 +20,7 @@ Anofie Pro comes with an installer that makes the installation process fully aut
 <a name="Server-Requirements"></a>
 ## Server Requirements
 
-* PHP version **5.6** or newer is recommended.
+* PHP version **7.1** or newer is recommended.
 * Make sure **.htaccess** is enabled.
 * Required PHP Extensions - `Mbstring`, `BC Math`, `GMP`
 
